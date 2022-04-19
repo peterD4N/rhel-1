@@ -1,2 +1,2 @@
-# rhel-class1
+# rhel-1
 RHEL training #1
